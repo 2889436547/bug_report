@@ -2,6 +2,8 @@
 
 BUG_Author: JiaQi Yang
 
+Website source address：https://www.sourcecodester.com/php/14730/friendly-island-pizza-website-php-mysql.html
+
 Vulnerability File: /FriendlyIsPizzaWebsite/cashconfirm.php
 
 Parameter "transactioncode" (POST), exists XSS vulnerability
